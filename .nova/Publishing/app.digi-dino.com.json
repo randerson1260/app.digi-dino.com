@@ -1,0 +1,8 @@
+{
+  "identifier" : "A20A6686-1D9E-46FF-A9E5-BAE65B5AA8CF",
+  "localPath" : ".",
+  "remotePath" : "\/var\/www\/html",
+  "remoteURL" : "https:\/\/app.digi-dino.com",
+  "server" : "app.digi-dino.com",
+  "usesPublishing" : true
+}
